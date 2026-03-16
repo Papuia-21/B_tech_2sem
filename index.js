@@ -1,1 +1,1 @@
-let elem = document.getElementById("para").innerHTML
+let elem = document.getElementById("para").innerHTML = "this is js"
